@@ -1,4 +1,4 @@
 {
-    "version": "1.0.2",
-    "updates": "Fixed a false positive when using multiple exports['cfx-hu-init']:ExecuteSecureEvent()"
+    "version": "1.0.3",
+    "updates": "Added Screenshot Features"
 }
