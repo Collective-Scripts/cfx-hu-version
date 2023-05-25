@@ -1,4 +1,4 @@
 {
-    "version": "1.0.1",
-    "updates": "Fixed ContextMenu Bug"
+    "version": "1.0.2",
+    "updates": "Fix Major Bug, Added Delete Gang, Remove Old Natives, Fixed width, length in setting zone"
 }
