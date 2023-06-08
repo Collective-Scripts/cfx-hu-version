@@ -1,4 +1,4 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "updates": "\n\n         Added/Fixed\n=============================\n* Fixed: Major Bug\n* Added: Server/Client Exports (Check config.lua)\n* Added: Enable/Disable Locker Blip\n* Added: Framework Configuration (Check config.lua)\n"
 }
